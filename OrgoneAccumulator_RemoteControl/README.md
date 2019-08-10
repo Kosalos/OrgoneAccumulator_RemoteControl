@@ -1,6 +1,6 @@
 #Remote Control Organ Accumulator
 
-Three Projects:
+Four Projects:
 
 1. OAPacket
    OA (Orgone Accumulator) firmware.
@@ -16,6 +16,9 @@ Three Projects:
 
 3. OrgoneSequence.  Processing app to remote control the OA.
     20 Channel, 32 step sequencer for the OA.
+
+4. AlgorhyithmicMusic: Processing app to remote control the OA.
+   Algorhyithm generates melodies.
 
 --------------------------------
 Download and Install Arduino environment, upload firmware to OA:
